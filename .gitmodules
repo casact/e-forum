@@ -1,0 +1,3 @@
+[submodule "ef_yield_curve_generators"]
+	path = ef_yield_curve_generators
+	url = https://github.com/casact/ef_yield_curve_generators.git
