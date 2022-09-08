@@ -1,3 +1,6 @@
 [submodule "ef_yield_curve_generators"]
 	path = ef_yield_curve_generators
 	url = https://github.com/casact/ef_yield_curve_generators.git
+[submodule "ef-Unifying-Triangle-Methods"]
+	path = ef-Unifying-Triangle-Methods
+	url = https://github.com/casact/ef-Unifying-Triangle-Methods.git
